@@ -1,2 +1,3 @@
 # My-Site
-Personal website
+
+Personal website using HTML and CSS.
