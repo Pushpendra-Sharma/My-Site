@@ -1,3 +1,5 @@
 # My-Site
 
-Personal website using HTML and CSS.
+Hey welcome to my portfolio.
+
+It's built with HTMl & CSS.
